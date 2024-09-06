@@ -1,5 +1,9 @@
 # prodigy_ad_02
  developed a todo_list app
+ ## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Zainab-44/prodigy_ad_01/main/calculator%20ss.PNG))
+
 ## Deployment & Run
 
 To deploy this project first clean it by running:

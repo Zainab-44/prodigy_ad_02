@@ -2,7 +2,7 @@
  developed a todo_list app
  ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/Zainab-44/prodigy_ad_01/main/calculator%20ss.PNG))
+![Screenshot (213)](https://github.com/user-attachments/assets/6e1bcf6e-af8f-40b6-b352-e63486c825e2)
 
 ## Deployment & Run
 

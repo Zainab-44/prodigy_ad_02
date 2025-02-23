@@ -1,6 +1,7 @@
 # prodigy_ad_02
  developed a todo_list app
  ## Screenshots
+ 
 
 ![Screenshot (213)](https://github.com/user-attachments/assets/6e1bcf6e-af8f-40b6-b352-e63486c825e2)
 
